@@ -1,1 +1,1 @@
-This repository is used to save files about Machine Learning Project.
+This repository is used to save files for Machine Learning Project.
